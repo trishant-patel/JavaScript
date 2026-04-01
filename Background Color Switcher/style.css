@@ -1,0 +1,40 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.button{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+#grey{
+    background-color: grey;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#white{
+    background-color: whitesmoke;
+}
+
+.subHeading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
